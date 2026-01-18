@@ -1,3 +1,5 @@
+alert("JS connected!")
+
 let count = 0
 let saveEl = document.getElementById("save-el")
 let countEl = document.getElementById("count-el")
